@@ -1,1 +1,1 @@
-# IoT-Chore-Tracking-Device
+# IoT Chore Tracking Device with Discord Integration
