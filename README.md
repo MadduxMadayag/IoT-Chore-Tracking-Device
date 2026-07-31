@@ -1,4 +1,4 @@
 # IoT Chore Tracking Device with Discord Integration
 
-## Authors
+## Contributors
 **Maddux Madayag, Yu-Han Lou, and Elisabeth Hsu**
