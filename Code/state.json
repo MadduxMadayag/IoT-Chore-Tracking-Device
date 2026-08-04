@@ -1,0 +1,57 @@
+{
+    "day_skip": 3,
+    "people": [
+        "Sri",
+        "Aditi",
+        "Paul"
+    ],
+    "schedule": {
+        "Monday": [
+            {
+                "name": "Aditi",
+                "chore": "Bed",
+                "completed": true
+            },
+            {
+                "name": "Sri",
+                "chore": "dishes",
+                "completed": true
+            }
+        ],
+        "Tuesday": [],
+        "Wednesday": [
+            {
+                "name": "Sri",
+                "chore": "Bank",
+                "completed": true
+            },
+            {
+                "name": "Aditi",
+                "chore": "Lecture",
+                "completed": true
+            }
+        ],
+        "Thursday": [
+            {
+                "name": "Sri",
+                "chore": "Dishes",
+                "completed": true
+            }
+        ],
+        "Friday": [
+            {
+                "name": "Paul",
+                "chore": "Laundry",
+                "completed": true
+            },
+            {
+                "name": "Sri",
+                "chore": "Dishes",
+                "completed": true
+            }
+        ],
+        "Saturday": [],
+        "Sunday": []
+    },
+    "last_date": "2026-06-03"
+}
